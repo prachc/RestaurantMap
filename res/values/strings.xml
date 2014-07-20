@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="app_name">RestaurantMap</string>
+    <array name="process_name">
+	    <item>Rakuten</item>
+    	<item>ReverseGeo</item>
+    	<item>Map</item>
+    </array>
+    <array name="process_number">
+	    <item>0x001</item>
+    	<item>0x002</item>
+    	<item>0x003</item>
+    </array>
+</resources>
